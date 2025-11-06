@@ -40,8 +40,8 @@ The program then automatically generates the reversed dictionary for decryption.
 
 ## ▶️ Running the Program
 
--Make sure you have Python 3 installed.
--Run the script using: `python cipher.py`
+- Make sure you have Python 3 installed.
+- Run the script using: `python cipher.py`
 
 - You will see a menu like:
 
