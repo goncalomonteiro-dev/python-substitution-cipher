@@ -42,7 +42,6 @@ The program then automatically generates the reversed dictionary for decryption.
 
 - Make sure you have Python 3 installed.
 - Run the script using: `python cipher.py`
-
 - You will see a menu like:
 
 --- CIPHER MENU ---
@@ -81,4 +80,3 @@ python-substitution-cipher/
 
 ## 📄 License
 This project is free to use for educational purposes.
-
