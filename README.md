@@ -63,8 +63,11 @@ lgssc
 ## 📁 Project Structure
 
 python-substitution-cipher/
+
 │
+
 ├── cipher.py       # main script
+
 └── README.md       # project documentation
 
 ---
