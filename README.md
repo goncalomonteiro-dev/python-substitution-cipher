@@ -64,8 +64,8 @@ lgssc
 
 python-substitution-cipher/
 │
-├── cipher.py       # main script
-└── README.md       # project documentation
+├── cipher.py # main script
+└── README.md # project documentation
 
 ---
 
